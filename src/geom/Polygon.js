@@ -148,7 +148,7 @@ Object.defineProperty(Phaser.Polygon.prototype, 'points', {
 /**
 * Returns the area of the polygon.
 *
-* @name Phaser.Circle#right
+* @name Phaser.Polygon#area
 * @readonly
 */
 Object.defineProperty(Phaser.Polygon.prototype, 'area', {
